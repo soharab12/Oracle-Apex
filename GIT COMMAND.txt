@@ -1,0 +1,9 @@
+
+1.Go to the specific folder and run this command
+PS C:\Users\hp\Desktop\Oracle Apex> git clone https://github.com/soharab12/Oracle-Apex.git
+2.go to the git repository
+C:\Users\hp\Desktop\Oracle Apex\Oracle-Apex>git status
+C:\Users\hp\Desktop\Oracle Apex\Oracle-Apex>git add .
+C:\Users\hp\Desktop\Oracle Apex\Oracle-Apex>git commit -m 'doc'
+C:\Users\hp\Desktop\Oracle Apex\Oracle-Apex>git push -u origin main
+C:\Users\hp\Desktop\Oracle Apex\Oracle-Apex>
